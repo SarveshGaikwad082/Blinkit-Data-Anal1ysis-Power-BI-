@@ -22,10 +22,10 @@ The Blinkit Sales Dashboard is a Power BI project designed to analyze sales perf
   - Grocery stores had the lowest sales but consistent item visibility.
 
 ## Files Included
-- `Blinkit-Dashboard.pbix`: Power BI dashboard file.
+- `Blinkit DashBoard.pbix`: Power BI dashboard file.
 - `Blinkit-Dashboard.png`: Screenshot of the dashboard for reference.
-- `Dataset.csv` (Optional): Dataset used for the analysis (upload if available).
-- `Blinkit Dashboard.pdf` (Optional): Additional documentation for the project.
+- `Blinkit Dashboard.pdf`: PDF documentation of the project.
+- `BlinkIT Grocery Data.xlsx`: Excel file containing the data used for the dashboard.
 
 ## How to Use
 1. Clone the repository or download the project files.
