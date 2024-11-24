@@ -1,9 +1,10 @@
 # Blinkit Sales Dashboard
-
-
+![Blinkit Dashboard](https://github.com/user-attachments/assets/83c25265-6156-4867-bc3d-fce370a97733)
 
 ## Overview
 The Blinkit Sales Dashboard is a Power BI project designed to analyze sales performance and provide actionable insights for improved business operations. This dashboard showcases key sales metrics, interactive filters, and visualizations to support data-driven decision-making.
+
+
 
 ## Features
 - **Key Metrics**: Total Sales, Average Sales, Number of Items, and Average Rating.
